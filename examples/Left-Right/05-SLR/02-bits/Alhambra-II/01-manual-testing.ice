@@ -169,7 +169,7 @@
           "id": "2ff15a7a-110b-476b-aacd-1f99014b2c99",
           "type": "basic.info",
           "data": {
-            "info": "## SLR2 Register: Manual testing\n\nUnary counter shown in the LEDs",
+            "info": "## 02-SLR Register: Manual testing\n\nUnary counter shown in the LEDs",
             "readonly": true
           },
           "position": {
