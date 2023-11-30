@@ -335,12 +335,12 @@
           "id": "2ff15a7a-110b-476b-aacd-1f99014b2c99",
           "type": "basic.info",
           "data": {
-            "info": "## SLR2-ld-rst Register: Manual testing\n\nUnary counter shown in the LEDs",
+            "info": "## 02-SLR-ld-rst Register: Manual testing\n\nUnary counter shown in the LEDs",
             "readonly": true
           },
           "position": {
             "x": 176,
-            "y": 40
+            "y": 48
           },
           "size": {
             "width": 504,
